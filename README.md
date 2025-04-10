@@ -16,6 +16,8 @@ In this course, you'll delve into the optimization techniques necessary to effic
 <img src="images/1_4.png" height="350"> 
 </p>
 
+- 扩展阅读 ：[【8】KV Cache 原理讲解](https://www.bilibili.com/video/BV17CPkeEEzk/?vd_source=27d3b33a76014ebb5a906ad40fa382de)
+
 2. 💻 **LLM Inference Stack**: Implement foundational elements of a modern LLM inference stack, including KV caching, continuous batching, and model quantization.
 <p align="center">
 <img src="images/2_1.png" height="300"> 
